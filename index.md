@@ -8,11 +8,23 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title]()
+[Spell Cheking and Keyword Searching](https://github.com/JINHXu/spellchecker)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title]()
+[Finite State Automata](https://github.com/JINHXu/FSA)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[NNPuzzle](https://github.com/JINHXu/NNpuzzle)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Parsing](https://github.com/JINHXu/Cons2DepConv)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
