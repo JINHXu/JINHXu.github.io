@@ -9,19 +9,19 @@
 
 ---
 [Spell Cheking and Keyword Searching](https://github.com/JINHXu/spellchecker)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="standard_trie.png?raw=true"/>
 
 ---
 [Finite State Automata](https://github.com/JINHXu/FSA)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/minimized.png?raw=true"/>
 
 ---
 [NNPuzzle](https://github.com/JINHXu/NNpuzzle)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/145px-15-puzzle_magical.svg.png?raw=true"/>
 
 ---
 [Parsing](https://github.com/JINHXu/Cons2DepConv)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/altenheim-tree-dep-auto.png?raw=true"/>
 
 ---
 [Word Searching online with a GUI](https://github.com/JINHXu/WordSearcherNGUI)
@@ -29,6 +29,10 @@
 
 ---
 [Solving small problems](https://github.com/JINHXu/problemsolving)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Finite State Transducer]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
