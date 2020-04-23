@@ -24,16 +24,16 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[]()
+[Word Searching online with a GUI](https://github.com/JINHXu/WordSearcherNGUI)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Data Analysis
 
-- [Project 1 Title]()
-- [Project 2 Title]()
-- [Project 3 Title]()
+- [Bayesian Regressian SoundInventoryPopulation](https://github.com/JINHXu/soundInventoryPopulation)
+- [Survival Analysis ld.chin](https://github.com/JINHXu/ld.chin_t2e)
+- [Survival Analysis blp](https://github.com/JINHXu/blp_t2e)
 
 ---
 
