@@ -32,8 +32,11 @@
 ### Data Analysis
 
 - [Bayesian Regressian SoundInventoryPopulation](https://github.com/JINHXu/soundInventoryPopulation)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Survival Analysis ld.chin](https://github.com/JINHXu/ld.chin_t2e)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Survival Analysis blp](https://github.com/JINHXu/blp_t2e)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
