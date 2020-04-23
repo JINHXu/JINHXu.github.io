@@ -5,7 +5,7 @@
 ### Software Engineering 
 
 [WordNet](https://github.com/JINHXu/WordNet)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dog_horse-graph.png?raw=true"/>
 
 ---
 [Spell Cheking and Keyword Searching](https://github.com/JINHXu/spellchecker)
@@ -28,7 +28,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Solving small problems](https://github.com/JINHXu/problemsolving)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 ### Data Analysis
 
 - [Bayesian Regressian SoundInventoryPopulation](https://github.com/JINHXu/soundInventoryPopulation)
