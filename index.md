@@ -41,6 +41,10 @@
 ---
 
 
+### Tutorials
+
+- [Mathematical Methods 1: Logic](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
