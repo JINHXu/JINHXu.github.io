@@ -9,7 +9,7 @@
 
 ---
 [Spell Cheking and Keyword Searching](https://github.com/JINHXu/spellchecker)
-<img src="standard_trie.png?raw=true"/>
+<img src="images/standard_trie.png?raw=true"/>
 
 ---
 [Finite State Automata](https://github.com/JINHXu/FSA)
