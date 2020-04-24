@@ -1,5 +1,3 @@
-<p style="font-size:11px">Last updated on 24 April, 2020.</p>
-
 ## Gitfolio
 
 ---
@@ -57,5 +55,6 @@
 
 
 ---
+<p style="font-size:11px">Last updated on 24 April, 2020.</p>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
