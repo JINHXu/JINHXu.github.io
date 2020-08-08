@@ -74,6 +74,7 @@
 ### Tutorials
 
 - [Mathematical Methods 1: Logic](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io)
+- [Mathematical Methods 2: Statistics](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=820#section-2)
 
 
 
