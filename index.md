@@ -1,4 +1,4 @@
-## Gitfolio
+## Gitfolio/Course Projects
 
 ---
 
@@ -50,7 +50,7 @@ A Constituency to Dependency Parsing Converter.
 
 ---
 
-- Word Searching online with a GUI
+- _Word Searching online with a GUI_
 
 <!--
 - [Word Searching online with a GUI](https://github.com/JINHXu/WordSearcherNGUI)
@@ -65,7 +65,7 @@ Implementations of small problems such as calculating polynomials, randomized in
 
 
 ---
-- Finite State Transducer
+- _Finite State Transducer_
 
 ---
 ### Data Analysis
