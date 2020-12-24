@@ -2,7 +2,7 @@
 
 ---
 
-### Small Softwares
+### Small Software
 
 - [WordNet](https://github.com/JINHXu/WordNet)<br>
 The WordNet class is to represent the WordNet synsets and the hyperonymy relation between them, and to support a variety of queries for extracting the information encoded in the hierarchical structure of WordNet.
@@ -84,6 +84,8 @@ A survival analysis(with R) of time-to-event data: the data for the British Lexi
 
 
 ### Little Experiments with Machine Learning
+
+organizing...
 
 ---
 
