@@ -83,9 +83,15 @@ A survival analysis(with R) of time-to-event data: the data for the British Lexi
 ---
 
 
-### Little Experiments with Machine Learning
+### Some little practice with Statistical Natural Language Processing
 
-organizing...
+- [Tweets Clustering](https://github.com/JINHXu/AA_unsupervised)<br>
+Dimensionality reduction with PCA. Clutering Tweets with k-means.
+<!--
+<img src="images/dog_horse-graph.png?raw=true"/>
+-->
+---
+...
 
 ---
 
