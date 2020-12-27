@@ -90,11 +90,14 @@ Dimensionality reduction with PCA. Clutering Tweets with k-means. <br>
 <!--
 <img src="images/dog_horse-graph.png?raw=true"/>
 -->
-
----
+- [Segmentation as Sequence labeling](https://github.com/JINHXu/segmentation-)<br>
+Segmentation as sequence labeling with Gated RNN. <br>
+<!--
+<img src="images/dog_horse-graph.png?raw=true"/>
+-->
 ...
 
-
+---
 
 ### Tutorials
 
