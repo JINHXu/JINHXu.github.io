@@ -90,10 +90,10 @@ Dimensionality reduction with PCA. Clutering Tweets with k-means. <br>
 <!--
 <img src="images/dog_horse-graph.png?raw=true"/>
 -->
----<br>
-...
 
 ---
+...
+
 
 
 ### Tutorials
