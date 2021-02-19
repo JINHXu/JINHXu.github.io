@@ -102,21 +102,25 @@ Segmentation as sequence labeling with Gated RNN. <br>
 <!--
 <img src="images/dog_horse-graph.png?raw=true"/>
 -->
+
 - [NER on Reddit posts/comments with SpaCy](https://github.com/JINHXu/NER-reddit-spc)<br>
  NER experiments: recognize `DRUG` entities in reddit drug posts/comments.<br>
 <!--
 <img src="images/dog_horse-graph.png?raw=true"/>
 -->
+
 - [Speaker Verification with NeMo](https://github.com/JINHXu/speaker-verification)<br>
 A speaker verification experiment with NeMo. <br>
 <!--
 <img src="images/dog_horse-graph.png?raw=true"/>
 -->
+
 - [NLP without readymade annotated dataset: experiments with SpaCy and Snorkel](https://github.com/JINHXu/NLP-experiments)<br>
 NER with SpaCy, information extraction with Snorkel.<br>
 <!--
 <img src="images/dog_horse-graph.png?raw=true"/>
 -->
+
 ...
 
 ---
